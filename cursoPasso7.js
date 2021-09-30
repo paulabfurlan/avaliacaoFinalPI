@@ -1,4 +1,4 @@
-// Import do módulo aluno
+// Import do módulo aluno e da lista de alunos
 let Aluno = require("./aluno");
 const listaEstudantes = require("./estudantes");
 
